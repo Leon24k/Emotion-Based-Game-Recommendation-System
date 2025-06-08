@@ -1,4 +1,4 @@
-# Emotion-Based Game Recommendation System
+# Emotion-Based Game Recommendation System🤗
 
 This project is a Flask application that detects emotions from images and recommends games based on the detected emotion.
 
