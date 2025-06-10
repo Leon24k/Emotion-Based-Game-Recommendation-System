@@ -61,3 +61,7 @@ This project is a Flask application that detects emotions from images and recomm
 - Pillow
 - Pandas
 - NumPy
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
